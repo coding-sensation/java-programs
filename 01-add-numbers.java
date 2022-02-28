@@ -6,12 +6,10 @@ class Main {
     int SecondNumber = 7;
     int sumTotal = FirstNumber + SecondNumber;
 
-    System.out.println("The sum of " + FirstNumber + " and " + SecondNumber + 
-    " is " + sumTotal + ".");
+    System.out.println("The sum of " + FirstNumber + " and " + SecondNumber + " is " + sumTotal + ".");
 
   }
 }
 
 // OUTPUT
 // The sum of 23 and 7 is 30.
-

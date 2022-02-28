@@ -18,7 +18,8 @@ class main4 {
         y = swap_operator;
         System.out.print("x = " + x);
         System.out.print(System.lineSeparator()); // This is just used to separate the outputs into separate lines
-        System.out.print("y = " + y) ;
+        System.out.print("y = " + y);
+        System.out.print(System.lineSeparator());
     }
 
 }
